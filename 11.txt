@@ -1,4 +1,4 @@
-测试初始化addfeature1
+测试初始化addfeature1//hotfix->add
 feature1 add text
 测试初始化addfeature2//测试修复bug
 
