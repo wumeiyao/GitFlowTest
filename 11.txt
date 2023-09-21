@@ -1,2 +1,2 @@
-测试初始化
+测试初始化addfeature2
 feature1 add text
