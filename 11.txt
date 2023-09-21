@@ -1,2 +1,4 @@
 测试初始化addfeature1
 feature1 add text
+测试初始化addfeature2
+
